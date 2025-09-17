@@ -2,6 +2,12 @@
 
 A professional Flutter application designed for Cairo's traditional coffee shop (Ahwa) owners to streamline operations, manage customer orders, and generate business insights.
 
+## 🔗 Links  
+- 🌐 **Project Wiki**: [Smart Ahwa Manager on DeepWiki](https://deepwiki.com/aliabdelmoaty/smartahwa)  
+- 🎥 **Demo Video**: [Watch Demo](https://drive.google.com/file/d/1THbZFiafUF_ku7irITQLD7GxoWqBKXHF/view?usp=drive_link)  
+- 📱 **Application Download**: [Download APK](https://drive.google.com/file/d/145PxeweOzGFaOdWIIRqMKvxXyi0vbKcF/view?usp=sharing)  
+
+---
 ## 📱 Features
 
 - **Order Management**: Add orders with customer names, drink types (shai, Turkish coffee, hibiscus tea), and special instructions
